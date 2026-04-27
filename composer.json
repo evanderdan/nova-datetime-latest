@@ -1,11 +1,11 @@
 {
-    "name": "wdelfuego/nova-datetime",
+    "name": "wdelfuego/nova-datetime-7-evios",
     "description": "Makes working with DateTime fields in Laravel's Nova 4 easier",
     "type": "library",
     "license": "MIT",
     "require": {
-        "laravel/nova": "^4.2.4",
-        "php": "^7.4|^8.0"
+        "laravel/nova": "^5.2.5",
+        "php": "^7.4|^8.0|^8.4"
     },
     "autoload": {
         "psr-4": {
